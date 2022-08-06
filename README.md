@@ -1,4 +1,3 @@
-## Architecture Diagram:
 
 ![App Screenshot](https://github.com/Anup-Narkhede/Serverless-Web-Application/blob/master/Images/1.png)
 ![App Screenshot](https://github.com/Anup-Narkhede/Serverless-Web-Application/blob/master/Images/2.png)
