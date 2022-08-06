@@ -21,4 +21,6 @@
 - [Cloudfront](https://youtu.be/77lMCiiMilo)
 - [Cognito](https://youtu.be/abTy-Yyo6lI)
 - [DynamoDB](https://youtu.be/sI-zciHAh-4)
+  ![App Screenshot](https://github.com/Anup-Narkhede/Serverless-Web-Application/blob/master/Images/DynamoDB.jpg)
+
 - [Lambda](https://youtu.be/eOBq__h4OJ4)
